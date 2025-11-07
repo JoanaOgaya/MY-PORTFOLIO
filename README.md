@@ -29,7 +29,7 @@ This project is a simple and responsive website built using HTML, CSS, and JAVAS
 
 # Author
 Email: joanaogaya27@gmail.com
-GitHub: github.com/JoanaOgaya
+GitHub: https://github.com/JoanaOgaya
 
 ---
 
